@@ -3,4 +3,11 @@ h1{
   font-size: 30px;
   
 }
+h3{
+  color: cornflowerblue;
+  font-family: 'Times New Roman', Times, serif;
+}
+.btn{
+  width: 100px;
+}
     
